@@ -1,6 +1,6 @@
 # Prabhakaran K
 
-Feel free to explore more about me https://sabarishcodewizard.github.io/Personal_Portfolio/
+Feel free to explore more about me https://prabha55555.github.io/Personal_Portfolio/
 
 <h1 align="center">Hi 👋, I'm Prabhakaran K</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
