@@ -21,7 +21,7 @@ Feel free to explore more about me https://prabha55555.github.io/Personal_Portfo
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
 
-<h3 align="left">Connect with me:9791901552 </h3>
+<h3 align="left">Connect with me:  9791901552 </h3>
 <p align="left">
 </p>
 
