@@ -36,7 +36,8 @@ Feel free to explore more about me https://prabha55555.github.io/Personal_Portfo
 
 
 
-![snake animation](https://github.com/prabha55555/prabha55555/blob/output/github-contribution-grid-snake2.svg)
+![Snake Animation](https://raw.githubusercontent.com/prabha55555/prabha55555/output/dist/github-contribution-grid-snake2.svg)
+
 
 
 
