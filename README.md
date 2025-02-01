@@ -16,6 +16,8 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabha55555.g
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+</p>
+
 - 🔭 I’m currently pursuing **B.TECH - CSBS** on **KPR Institute of Engineering and Technology** 
 
 - 🌱 I’m currently learning **Fullstack and AI and DSA**
