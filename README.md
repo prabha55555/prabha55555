@@ -2,10 +2,16 @@
 
 Feel free to explore more about me https://prabha55555.github.io/Personal_Portfolio/
 
+
 <h1 align="center">
+  <img src="https://i.pinimg.com/originals/61/2c/93/612c93bbae9bfbcb7df33fd88d2b78d9.gif" width="20%" height="250">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=11F772&width=448&height=54&lines=Hi+Friends👋,;I+am+Prabhakaran+K" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+
+
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
