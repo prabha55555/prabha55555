@@ -4,7 +4,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabha55555.g
 
 
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/61/2c/93/612c93bbae9bfbcb7df33fd88d2b78d9.gif" width="20%" height="150">
+  <img src="https://i.pinimg.com/originals/61/2c/93/612c93bbae9bfbcb7df33fd88d2b78d9.gif" width="20%" height="100">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=11F772&width=448&height=54&lines=Hi+Friends👋,;I+am+Prabhakaran+K" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
