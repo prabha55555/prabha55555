@@ -35,5 +35,8 @@ Feel free to explore more about me https://prabha55555.github.io/Personal_Portfo
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prabha55555?ext=heatmap)
 
 
-![snake animation](https://github.com/<prabha55555>/<prabha55555>/blob/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/prabha55555/prabha55555/blob/output/github-contribution-grid-snake2.svg)
+
+
 
