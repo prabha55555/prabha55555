@@ -31,10 +31,12 @@ Feel free to explore more about me https://prabha55555.github.io/Personal_Portfo
 
 ![Prabhakaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabha55555&show_icons=true&theme=chartreuse-dark)   
 
+## LeetCode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/prabha55555?ext=heatmap)
 
 
+## Status Badge:
 
 ![Snake Animation](https://github.com/prabha55555/prabha55555/blob/output/github-contribution-grid-snake.svg)
 
