@@ -14,7 +14,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabha55555.g
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
 </p>
 
-![](https://komarev.com/ghpvc/?username=prabha&abbreviated=true)
+
 
 ![](https://komarev.com/ghpvc/?username=prabha55555&style=flat-square)
 
