@@ -16,6 +16,8 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabha55555.g
 
 ![](https://komarev.com/ghpvc/?username=prabha&abbreviated=true)
 
+![](https://komarev.com/ghpvc/?username=prabha55555&style=flat-square)
+
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif">
 
