@@ -2,8 +2,6 @@
 
 Feel free to explore more about me [Prabhakaran Portfolio](https://prabha55555.github.io/Personal_Portfolio/)
 
-<meta name="google-site-verification" content="vyJNLNNGV6gD54s9q1UQ8fHE7WCSM0Bn0UIdemuLta4" />
-
 
 <h1 align="center">
  <p align="center">
