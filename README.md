@@ -34,7 +34,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 
 - 💬 Ask me about **Artificial Intelligence** and  **FullStack**
 
-- 📫 How to reach me **[LikedIn](linkedin.com/in/prabhakaran-kpr)**
+- 📫 How to reach me **[LinkedIn](linkedin.com/in/prabhakaran-kpr)**
 
 - ⚡ Fun fact **ChatGPT is currently free to use......**
 
