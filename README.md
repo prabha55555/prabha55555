@@ -26,7 +26,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 
 </p>
 
-- 🔭 I’m currently pursuing **B.TECH - CSBS** on **KPR Institute of Engineering and Technology** 
+- 🔭 I’m currently pursuing **B.TECH - CSBS** at **KPR Institute of Engineering and Technology** 
 
 - 🌱 I’m currently learning **Fullstack and AI and DSA**
 
