@@ -83,7 +83,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
        <img width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" alt="socket.io" title="Socket.io"/>
     </kbd>
      <kbd>
-      <kbd>Desing</kbd>
+      <kbd>Design</kbd>
       <br>
       <br>
       <img width="30px" src="https://img.icons8.com/fluency/48/canva.png" alt="swift" title="canva"/>
