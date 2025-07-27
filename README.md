@@ -11,7 +11,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 
 <!-- -------------------------------------- About Short Info -------------------------------------- -->
 
-
+![](https://komarev.com/ghpvc/?username=prabha55555&style=flat-square)
 <h1 align="center"> Hi, I am PRABHAKARAN K </h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSBS+Undergraduate;Full+Stack+Developer;AI+Enthusiast;Tech+Community+Leader;Lifelong+Learner&center=true&width=500&height=50"></a>
