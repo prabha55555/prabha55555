@@ -2,16 +2,20 @@
 
 Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.vercel.app/)
 
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" height="350">
-
-</p>
-
-
 <!-- -------------------------------------- About Short Info -------------------------------------- -->
 
 ![](https://komarev.com/ghpvc/?username=prabha55555&style=flat-square)
+<table width="100%">
+  <tr>
+    <td align="center" >
+      <img src="https://raw.githubusercontent.com/prabha55555/prabha55555/main/assets/ascii-art.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%">
+</div>
 <h1 align="center"> Hi, I am PRABHAKARAN K </h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSBS+Undergraduate;Full+Stack+Developer;AI+Enthusiast;Tech+Community+Leader;Lifelong+Learner&center=true&width=500&height=50"></a>
@@ -25,6 +29,8 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="69">
  <i align="center">"Embracing the Open World of Technology: <b> Building, Innovating, and Contributing!"</i></b>
 </p>
+
+<!-- -------------------------------------- ASCII Art + GIF Side by Side -------------------------------------- -->
 
 
 
@@ -40,7 +46,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 <!-- Middle Image -->
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif" />
   
-- 🔭 I’m currently pursuing **B.TECH - CSBS** at **KPR Institute of Engineering and Technology** 
+- 🔭 I’m  **B.TECH - CSBS** Graduate at **KPR Institute of Engineering and Technology** 
 
 - 🌱 I’m currently learning **Fullstack and AI and DSA**
 
@@ -66,7 +72,6 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
       <br>
       <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="cpp" title="C" /> 
-<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" />  -->
        <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="cpp" title="Java" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
@@ -125,11 +130,8 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-<!-- 	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/> -->
       <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-<!--       <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/> -->
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-<!--       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/> -->
       <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
     </kbd>
     <kbd>
@@ -144,7 +146,6 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
       <br>
       <img width="30" src="https://img.icons8.com/color/48/cursor-ai.png" alt="Xcode" title="Cursor AI"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-<!--       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/> -->
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
   </kbd>
@@ -235,7 +236,3 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 <p align="center">  
   Created with 🖤 by <a href="https://github.com/prabha55555">Prabhakaran K</a>  
 </p>
-
-
-
-
