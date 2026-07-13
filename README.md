@@ -16,14 +16,14 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%">
 </div>
-<h1 align="center"> Hi, I am PRABHAKARAN K </h1>
+<h1 align="center"> Hi, I'm PRABHAKARAN K </h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSBS+Undergraduate;Full+Stack+Developer;AI+Enthusiast;Tech+Community+Leader;Lifelong+Learner&center=true&width=500&height=50"></a>
 </p>  
 <h3 align="center">Learning & Exploring the WORLD of Code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="center">
   <em>
-   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> This is me, a <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also a highly motivated and enthusiastic individual, currently pursuing a <b>Bachelor of Technology</b> degree in <b>Computer Science and Business Systems</b> at <a href="https://kpriet.ac.in"> <b>KPR Institute of Engineering and Technology</b></a>, Coimbatore, India.
+   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> This is me, a <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> also a highly motivated and enthusiastic individual,  a <b>Bachelor of Technology</b> degree in <b>Computer Science and Business Systems</b> at <a href="https://kpriet.ac.in"> <b>KPR Institute of Engineering and Technology</b></a>, Coimbatore, India.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="69">
@@ -56,7 +56,7 @@ Feel free to explore more about me [Prabhakaran Portfolio](https://prabhakarank.
 
 - 📫 How to reach me **[LinkedIn](linkedin.com/in/prabhakaran-kpr)**
 
-- ⚡ Fun fact **ChatGPT is currently free to use......**
+- ⚡ Fun fact **1hr=60mins 😅......**
 
 <h3 align="left">Connect with me:  9791901552 </h3>
 
